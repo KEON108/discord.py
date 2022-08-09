@@ -430,7 +430,7 @@ class DiscordWebSocket:
                 'token': self.token,
                 'properties': {
                     'os': sys.platform,
-                    'browser': 'discord.py',
+                    'browser': 'Discord iOS',
                     'device': 'discord.py',
                 },
                 'compress': True,
